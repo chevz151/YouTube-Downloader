@@ -1,0 +1,7 @@
+- name: Do AutoPR
+  # You may pin to the exact commit or the version.
+  # uses: tejasmr/do-autopr@78cae9027d5c30b660231156bf5b19b7c75781e8
+  uses: chevz151/do-autopr@v1.0
+  with:
+    # the commit message, the PR title & description
+    message: # default is updates
